@@ -1,0 +1,32 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(102, 135, 135);
+  
+}
+
+.banner-image{
+    display:flex;
+    width: 1320px;
+    height: 600px;
+    margin-left: 140px;
+    margin-right: 140px;
+    border-radius: 16px;
+    background-image: url('resources/Banner Image.png');
+    justify-content:center;
+    align-items: center;
+}
+.banner-text{
+    color: #FFF;
+    font-weight: 900;
+
+
+}
+.
+.banner-content{
+    font-size: 72px;
+    height: 190px;
+    width:632px;
+    margin: 233px 344px 177px 344px;
+}
