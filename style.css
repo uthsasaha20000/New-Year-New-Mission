@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(102, 135, 135);
+    
   
 }
 
@@ -19,14 +19,8 @@
 }
 .banner-text{
     color: #FFF;
-    font-weight: 900;
+    
 
 
 }
-.
-.banner-content{
-    font-size: 72px;
-    height: 190px;
-    width:632px;
-    margin: 233px 344px 177px 344px;
-}
+
