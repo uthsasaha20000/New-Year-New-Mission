@@ -42,7 +42,7 @@
     margin-right: 140px;
     border-radius: 16px;
     background-image: url('resources/Vectorrr.png');
-    margin-bottom: 24px;
+    margin-bottom: 240px;
    
 }
 
@@ -85,4 +85,47 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
+}
+.awesome{
+    margin-left:126px;
+    width: 1320px;
+    height: 1200px;
+    margin-bottom:240px;
+  
+}
+.awesome h1{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.box{
+width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+
+}
+.box img{
+    size:100%;
+}
+.row1{
+    display:flex;
+    justify-content: space-between;
+}
+.row2{
+    display:flex;
+    justify-content: space-between;
+}
+.suscribe{
+width: 1320px;
+height: 616px;
+flex-shrink: 0;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+margin-left:126px;
 }
