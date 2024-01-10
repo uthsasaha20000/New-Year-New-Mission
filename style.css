@@ -9,7 +9,7 @@
 .banner-image{
     display:flex;
     width: 1320px;
-    height: 500px;
+    height: 600px;
     margin-left: 100px;
     margin-right: 140px;
     border-radius: 16px;
@@ -42,13 +42,47 @@
     margin-right: 140px;
     border-radius: 16px;
     background-image: url('resources/Vectorrr.png');
-    justify-content:right;
-    align-items: center;
-    margin-bottom: 120px;
+    margin-bottom: 24px;
+   
 }
-.welcome img{
-    margin-right:150px;;
+
+.welcome-tittle{
+color: #FFF;
+width:642px;
+height:176;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+margin:126px 552px 24px 126px;
+
 }
 .welcome-text{
-    position:flex-start;
+   
+    width:800px;
+}
+.welcome-content{
+color: rgba(255, 255, 255, 0.80);
+width:697px;
+height:60px;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding-left: 126px;
+}
+.join{
+display:inline-block;
+color: #FFF;
+margin-left:159px;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
 }
