@@ -23,7 +23,7 @@ body{
     margin-bottom: 120px;
 }
 .banner-text{
-    color: #ff0000;
+    color: #ffffff;
     
 
 
@@ -228,7 +228,7 @@ color:#FFF;
 .upper{
     display:flex;
     justify-content: space-between;
-    border:3px solid blue;
+   
     margin-bottom:80px;
 }
 .first{
@@ -267,7 +267,7 @@ background-color: rgba(255, 255, 255, 0.15);
 margin-bottom:50px;
 }
 .last{
-    border: 3px solid red;
+   
     display:flex;
     justify-content: space-between;
 
