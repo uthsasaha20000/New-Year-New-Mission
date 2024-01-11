@@ -229,6 +229,7 @@ color:#FFF;
     display:flex;
     justify-content: space-between;
     border:3px solid blue;
+    margin-bottom:80px;
 }
 .first{
     width:375px;
@@ -243,4 +244,15 @@ color:#FFF;
     margin-right:275px;
     margin-top:120px;
    
+}
+.image-container{
+    display:flex;
+    justify-content: center;
+
+}
+.image-container img{
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+    margin-right:20px;
 }
