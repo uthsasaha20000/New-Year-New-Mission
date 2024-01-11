@@ -115,6 +115,9 @@ flex-shrink: 0;
 border-radius: 16px;
 
 }
+.box:hover{
+ border:5px solid blue;
+}
 .box img{
     size:100%;
 }
